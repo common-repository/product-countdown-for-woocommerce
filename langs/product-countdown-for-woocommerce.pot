@@ -1,0 +1,501 @@
+# Copyright (C) 2021 ProWCPlugins
+# This file is distributed under the same license as the Product Time Countdown for WooCommerce plugin.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Countdown for WooCommerce\n"
+"POT-Creation-Date: 2024-03-30 11:12+0530\n"
+"PO-Revision-Date: 2017-03-11 16:09+0530\n"
+"Last-Translator: ProWCPlugins>\n"
+"Language-Team: ProWCPlugins <prowcplugins@gmail.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_x:1,2c;_ex:1,2c;"
+"_nx:1,2c;esc_attr_e;esc_attr__;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c;_n_noop:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-prowc-product-countdown-core.php:213
+msgid "Countdown"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-metaboxes.php:36
+#: includes/settings/class-prowc-settings-product-countdown.php:24
+msgid "Product Time Countdown"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-metaboxes.php:63
+msgid "No"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-metaboxes.php:65
+msgid "Yes"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-metaboxes.php:67
+msgid "Enabled"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-metaboxes.php:71
+msgid "Date"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-metaboxes.php:75
+msgid "Time"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-metaboxes.php:78
+msgid "Do nothing"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-metaboxes.php:79
+msgid "Disable product"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-metaboxes.php:88
+msgid ""
+"Pro version also includes \"Cancel sale\" and \"Make sold out\" actions."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-metaboxes.php:89
+msgid "Action"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-metaboxes.php:93
+msgid "Current date and time"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:25
+msgid "General"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:40
+msgid "Product Time Countdown Options"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:45
+#: product-countdown-for-woocommerce.php:283
+#: product-countdown-for-woocommerce.php:292
+msgid "Product Time Countdown for WooCommerce"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:46
+msgid "Enable plugin"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:56
+msgid "General Options"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:61
+msgid "Template"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:62
+msgid "You can use HTML and/or shortcodes here."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:64
+#, php-format
+msgid "%s is replaced by actual time counter."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:72
+msgid "Time format"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:73
+msgid "Ignored if \"Human readable format\" option below is enabled."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:75
+#, php-format
+msgid "Replaced values: %s."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:83
+msgid "Upper limit"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:89
+msgid "Seconds"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:90
+msgid "Minutes"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:91
+msgid "Hours"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:92
+msgid "Days"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:93
+msgid "Weeks"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:97
+msgid "Human readable format"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:98
+#: includes/settings/class-prowc-product-countdown-settings-general.php:230
+#: includes/settings/class-prowc-product-countdown-settings-general.php:238
+#: includes/settings/class-prowc-product-countdown-settings-general.php:253
+msgid "Enable"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:100
+#, php-format
+msgid "Will use %s function to display time."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:107
+msgid "Style"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:114
+msgid "Update rate"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:115
+msgid "milliseconds"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:122
+msgid "Reload page"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:123
+msgid "If enabled will reload page on time finished."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:129
+msgid "Reload"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:130
+msgid "Reload on single product pages only"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:131
+msgid "Do not reload"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:135
+msgid "Message on time finished"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:136
+msgid ""
+"Message will be visible on time finished on frontend instead of time "
+"counter."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:137
+msgid "Can be empty."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:148
+msgid "Position Options"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:152
+#, php-format
+msgid "You will need %s plugin to change this section's settings."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:154
+#: includes/settings/class-prowc-product-countdown-settings-general.php:245
+#: includes/settings/class-prowc-product-countdown-settings-general.php:261
+msgid "Product Time Countdown for WooCommerce Pro"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:157
+#, php-format
+msgid "In Pro version you can also use %s shortcode to display the counter."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:163
+msgid "Position on single product page"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:169
+#: includes/settings/class-prowc-product-countdown-settings-general.php:202
+msgid "Do not add"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:170
+msgid "Before single product"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:171
+msgid "Before single product summary"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:172
+msgid "Inside single product summary"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:173
+msgid "After single product summary"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:174
+msgid "After single product"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:175
+msgid "Before add to cart form"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:176
+msgid "Before add to cart button"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:177
+msgid "After add to cart button"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:178
+msgid "After add to cart form"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:183
+#: includes/settings/class-prowc-product-countdown-settings-general.php:212
+msgid "Position priority"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:184
+#: includes/settings/class-prowc-product-countdown-settings-general.php:213
+msgid "Change this if you want to move the timer inside the Position."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:185
+msgid "Existing priorities:"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:186
+msgid "<em>Before single product:</em><br>notices - 10."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:187
+msgid ""
+"<em>Before single product summary:</em><br>sale flash - 10,<br>product "
+"images - 20."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:188
+msgid ""
+"<em>Inside single product summary:</em><br>title - 5,<br>rating - 10,"
+"<br>price - 10,<br>excerpt - 20,<br>add to cart - 30,<br>meta - 40,"
+"<br>sharing - 50."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:189
+msgid ""
+"<em>After single product summary:</em><br>product data tabs - 10,<br>upsell "
+"- 15,<br>related products - 20."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:196
+msgid "Position on archive (shop) pages"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:203
+msgid "Before product"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:204
+msgid "Before product title"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:205
+msgid "Inside product title"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:206
+msgid "After product title"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:207
+msgid "After product"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:224
+msgid "\"Disable product\" Action Options"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:229
+msgid "Make non-purchasable"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:231
+msgid ""
+"This will make products non-purchasable (i.e. product can't be added to the "
+"cart). However products will still be visible."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:237
+msgid "Make invisible"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:239
+msgid ""
+"This will hide products in shop and search results. However products will "
+"still be accessible via direct link."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:242
+#: includes/settings/class-prowc-product-countdown-settings-general.php:259
+#, php-format
+msgid "You will need %s plugin to enable this option."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:252
+msgid "Make completely invisible"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:256
+msgid "This will hide products completely (including direct link)."
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:272
+msgid "Admin Products List Options"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:277
+msgid "Add column"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:278
+msgid "Add"
+msgstr ""
+
+#: includes/settings/class-prowc-product-countdown-settings-general.php:279
+msgid "This will add \"Countdown\" column to admin products list."
+msgstr ""
+
+#: includes/settings/class-prowc-settings-product-countdown.php:49
+msgid "Reset Settings"
+msgstr ""
+
+#: includes/settings/class-prowc-settings-product-countdown.php:54
+msgid "Reset section settings"
+msgstr ""
+
+#: includes/settings/class-prowc-settings-product-countdown.php:55
+msgid "Check this box and save changes to reset section settings."
+msgstr ""
+
+#: includes/settings/class-prowc-settings-product-countdown.php:56
+msgid "Reset"
+msgstr ""
+
+#: includes/settings/class-prowc-settings-product-countdown.php:96
+msgid "Your settings have been reset."
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:96
+msgid "Settings"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:99
+msgid "Unlock All"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:283
+msgid ""
+" plugin is not working because you need to activate the Woocommerce plugin."
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:284
+msgid "Activate Woocommerce Now"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:292
+msgid ""
+" plugin is not working because you need to install the WooCoomerce plugin"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:293
+msgid "Install WooCommerce Now"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:324
+msgid "Upgrade Product Time Countdown for WooCommerce"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:324
+msgid "to get additional features, security, and support. "
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:324
+msgid "Get 20% OFF"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:324
+msgid " your upgrade, use coupon code"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:324
+msgid "WP20"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:329
+msgid "Buy Now"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:330
+#: product-countdown-for-woocommerce.php:396
+msgid "Remind me later"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:331
+#: product-countdown-for-woocommerce.php:397
+msgid "Dismiss Notice"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:380
+#, php-format
+msgid "How are you liking the %s?"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:414
+msgid "Are you enjoying Product Time Countdown for WooCommerce?"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:418
+msgid "Yes!"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:419
+msgid "Not Really!"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:431
+msgid ""
+"That's awesome! Could you please do me a BIG favor and give it 5-star "
+"rating on WordPress to help us spread the word and boost our motivation?"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:436
+msgid "Okay You Deserve It"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:437
+msgid "Nope Maybe later"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:438
+msgid "I Already Did"
+msgstr ""
